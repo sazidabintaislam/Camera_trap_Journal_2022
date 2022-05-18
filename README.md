@@ -1,0 +1,1 @@
+# Camera_trap_Journal_2022
