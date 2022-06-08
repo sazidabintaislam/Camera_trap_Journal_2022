@@ -5,11 +5,8 @@
 #### In our work, we trained, and tested machine learning models to classify three animal groups (snakes, lizards, and toads) from camera trap images. We experimented with two pre-trained model; VGG16 and Resnet50, and a self-trained convolutional neural network (CNN-1) with varying CNN layers and augmentation parameters. 
 
 ## Dataset:
-Online dataset: Image samples collecetd from online database (the dataset samples are publicly available on prior permission)
 Camera trap dataset: Field dataset collected from Texas (the dataset samples are not publicly available.).
-## Models:
-CNN-1: without implementing augmentation
-CNN-2: with augmentation
+
 ## Experiments:
 Binary
 Multiclass
